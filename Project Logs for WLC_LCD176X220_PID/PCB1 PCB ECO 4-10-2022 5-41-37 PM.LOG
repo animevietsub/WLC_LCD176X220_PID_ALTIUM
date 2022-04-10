@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=IC3 Old Footprint=FAIRCHILD_FOD817DSD New Footprint=DIP4
+Change Component Footprint: Designator=IC5 Old Footprint=FAIRCHILD_FOD817DSD New Footprint=DIP4
+Change Component Footprint: Designator=IC6 Old Footprint=FAIRCHILD_FOD817DSD New Footprint=DIP4
+Added Member To Class: ClassName=Sheet1 Member=Component C3 106
