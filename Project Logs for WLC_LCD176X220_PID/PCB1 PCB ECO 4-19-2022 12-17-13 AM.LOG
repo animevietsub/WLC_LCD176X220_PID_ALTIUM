@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RCLK Pin=R13-1
+Removed Pin From Net: NetName=RCLK Pin=R13-2
+Removed Pin From Net: NetName=+3.3V Pin=R25-1
+Change Component Comment : Designator=R13 Old Comment=0R New Comment=1K
+Change Component Comment : Designator=R25 Old Comment=10K New Comment=0R
+Change Component Comment : Designator=R21 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R22 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R23 Old Comment=10K New Comment=1K
+Change Component Designator: OldDesignator=R13 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Added Pin To Net: NetName=RCLK Pin=R24-1
+Added Pin To Net: NetName=RCLK Pin=R24-2
+Added Pin To Net: NetName=+3.3V Pin=R25-1
+Added Pin To Net: NetName=BD Pin=R25-2

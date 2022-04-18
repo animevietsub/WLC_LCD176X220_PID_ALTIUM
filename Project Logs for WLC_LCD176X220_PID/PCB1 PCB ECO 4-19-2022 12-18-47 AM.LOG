@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R21 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R22 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R23 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R24 Old Comment=10K New Comment=1K
+Added Pin To Net: NetName=BD Pin=R24-2
+Added Member To Class: ClassName=Sheet1 Member=Component R13 0R

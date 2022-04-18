@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+3.3V Pin=R13_1-1
+Change Component Comment : Designator=R21 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R22 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R23 Old Comment=10K New Comment=1K
+Added Component: Designator=R13(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V Pin=R13-1
+Added Pin To Net: NetName=BD Pin=R13-2
+Added Member To Class: ClassName=Sheet1 Member=Component R13 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R21 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R22 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R23 1K
