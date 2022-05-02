@@ -1,0 +1,30 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~WLC_LCD176X220_PID.PrjPcb|ReportField=ProjectFullPath~E:\NEW_DATA\Project\WLC_LCD176X220_PID\WLC_LCD176X220_PID.PrjPcb|ReportField=Title~Bill of Materials For Project [WLC_LCD176X220_PID.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~1:10:00 PM|ReportField=ReportDate~4/20/2022|ReportField=ReportDateTime~4/20/2022 1:10:00 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~66|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~4/20/2022|ReportField=CurrentTime~1:09:41 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\NEW_DATA\Project\WLC_LCD176X220_PID\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~4/19/2022|ReportField=Organization~|ReportField=ProjectName~WLC_LCD176X220_PID.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~WLC_LCD176X220_PID.PrjPcb|ReportField=DataSourceFullPath~E:\NEW_DATA\Project\WLC_LCD176X220_PID\WLC_LCD176X220_PID.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Plated Hole|Single Terminal Socket|B1, B2, B3, B4|MTG300_600|PLATED_HOLE3.0_PAD6.0|4
+2|220uF|Polarized capacitor|C1, C7, C9, C10, C14|Cap-P-2.5/5|Cap-Pol-Dip|5
+3|104|Non-polar capacitor|C2, C4, C5, C8, C11, C12, C15|Cap-Non-150mil|Cap-Non-Dip|7
+4|106|Non-polar capacitor|C3, C16|CAP-SMD-0805|Cap-Non-SMD|2
+5|470uF|Polarized capacitor|C6, C13, C19|Cap-P-3.8/6.3|Cap-Pol-Dip|3
+6|104|Non-polar capacitor|C17, C18|CAP-SMD-0805|Cap-Non-SMD, Cap-Non-Dip|2
+7|DC INPUT||CN1|KF2/5.08|KF 2|1
+8|PUMP||CN2|KF2/5.08|KF 2|1
+9|SS14|Diode SMD|D1, D2, D4|SOD 106|Diode SMD|3
+10|2.00A||F1|Fuse-Dip1|Fuse Dip|1
+11|SN74HC595D|8-Bit Shift Register With 3-State Output Register|IC1, IC2|SOIC127P600X175-16N|SN74HC595D|2
+12|FOD817DSD|Single Optocoupler|IC3, IC4, IC5|DIP4|FOD817DSD|3
+13|74HC14D|Hex Schmitt-Trigger Inverter|IC6|SOIC127P600X175-14N|74HC14D|1
+14|470uH|Inductor|L1|L-DIP-M-5.3|IND-DIP-1|1
+15|POWER||LED1|LED-0805|LED_SMD|1
+16|ESP-5.0V||LED2|LED-0805|LED_SMD|1
+17|ESP-3.3V||LED3|LED-0805|LED_SMD|1
+18|JSN-SR04T||M1|JSN-SR04T|JSN-SR04T|1
+19|L298N||M2|L298N_MODULE|L298N|1
+20|1K|Resistor 1/4W|R1, R2, R3, R4, R5, R6, R7, R8, R9, R21, R22, R23, R24|RES-SMD-0805|Res 1/4W|13
+21|0R|Resistor SMD|R13, R14, R15|RES-SMD-0805|Res SMD|3
+22|0R|Resistor SMD, Resistor 1/4W|R16, R27|RES-SMD-1206|Res SMD, Res 1/4W|2
+23|UP|Switch button 4 pin|SW1|Button-Dip4/6x6|Button-4|1
+24|DOWN|Switch button 4 pin|SW2|Button-Dip4/6x6|Button-4|1
+25|LEFT|Switch button 4 pin|SW3|Button-Dip4/6x6|Button-4|1
+26|RIGHT|Switch button 4 pin|SW4|Button-Dip4/6x6|Button-4|1
+27|LM2596_MODULE||U1|LM2596_MODULE|LM2596_MODULE|1
+28|ESP32-DEVKIT-V1|- Transceiver; 802.11 b/g/n _Wi-Fi, WiFi, WLAN_, Bluetooth® Smart Ready 4.x Dual Mode For Use With ESP-WROOM-32|U2|MODULE_ESP32-DEVKITC-32D|ESP32-DEVKIT-V1|1
+29|ST7775R_2.0||U3|LCD_176X220_MODULE|LCD_176x220_ST7775R|1
